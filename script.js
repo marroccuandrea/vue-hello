@@ -5,7 +5,8 @@ createApp({
     data(){
         return{
             messaggio: 'Ciao',
-            
+            // BONUS 
+            immagine: './gargantua.jpg'
         }
     }
 
